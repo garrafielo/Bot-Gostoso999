@@ -1,2 +1,4 @@
 /User Data/*
+/dist/*
+/build/*
 chromedriver.exe
