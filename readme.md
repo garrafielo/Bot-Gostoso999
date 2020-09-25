@@ -10,7 +10,7 @@
 <img src="https://imgur.com/3y5ps9T.jpg"/>
 <br>
 
-### 4. Troque onde está escrito "https://classroom.google.com/c/[CODIGO]" para o código da sua Sala Google.
+### 4. Troque onde está escrito "`https://classroom.google.com/c/[CODIGO]`" para o código da sua Sala Google.
 <img src="https://imgur.com/ab8qck7.jpg"/>
 
 ### 5. Abra o programa, ele irá te redirecionar para uma página para fazer login, use seu email institucional. Quando acabar o login, pressione enter na janela preta (da esquerda), ou apenas feche-a.
