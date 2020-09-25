@@ -3,7 +3,7 @@
 block_cipher = None
 
 
-a = Analysis(['main.py'],
+a = Analysis(['bot-gostoso999.py'],
              pathex=['C:\\Users\\lucas\\Documents\\vscode\\ACORDAR 2'],
              binaries=[],
              datas=[],
@@ -23,7 +23,7 @@ exe = EXE(pyz,
           a.zipfiles,
           a.datas,
           [],
-          name='main',
+          name='bot-gostoso999',
           debug=False,
           bootloader_ignore_signals=False,
           strip=False,
