@@ -1,0 +1,8 @@
+[0925/105828.190:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0925/105828.191:ERROR:exception_snapshot_win.cc(99)] thread ID 13840 not found in process
+[0925/105828.291:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0925/105828.292:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0925/105828.292:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0925/105828.293:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0925/105828.293:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0925/105828.293:ERROR:exception_snapshot_win.cc(99)] thread ID 9792 not found in process
